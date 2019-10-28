@@ -1,0 +1,132 @@
+/*-Blue-*/
+.wrapper {
+	background: #3FC3F8 none repeat scroll 0 0;
+}
+	.headersection {
+	background: linear-gradient(4deg, #1CA0F0, #1CA0F9,#1CA0C0);
+}
+	.social a {
+	background: #0788CD;
+}
+.logo h2 {
+	color: #F8F8F8;
+	text-shadow: 2px 2px 0 #3a7f84;
+}
+.logo p {
+	color: #E3E6E6;
+}
+.searchbtn input {
+	background: #199DE4;
+	color: #00348C;
+	border: 1px solid #006BC3;
+	box-shadow: 1px 3px 7px -5px;
+}
+.searchbtn input[type="submit"]:hover {
+	background: #37BBFF;
+}
+.navsection {
+	background: #0F93C8 none repeat scroll 0 0;
+}
+.navsection ul li {
+	background: #1599E1;
+	border-right: 1px solid #2CA8DE;
+	border-left: 1px solid #0974AA;
+}
+#active, .navsection ul li a:hover {
+	background: linear-gradient(4deg, #1CA0F7, #199DE4,#0074E8);
+}
+.navsection ul li ul li {
+	border-bottom: 1px solid #50C5F7;
+}
+.contentsection {
+	background: #33B7EC none repeat scroll 0 0;
+}
+
+.samepost, .contact {
+	background: #199DE4 none repeat scroll 0 0;
+	border: 1px solid #0077AA;
+}
+.samepost h2, .about h2, .contact h2, .post h2, .relatedpost h2 {
+	border-bottom: 2px solid #0C6EAA;
+	color: #2FB3E8;
+}
+.samepost h2 a , .post h2 a{
+	color: #fff;
+}
+.samepost h2 a:hover {
+	color: #006FB6;
+}
+.samepost h4 a, .post h4 a {
+	color: #FFFFFF;
+}
+.samepost h4 a:hover, .post h4 a:hover {
+	color: #005BA2;
+}
+.readmore a {
+	background: #0170B7 none repeat scroll 0 0;
+	border: 1px solid #82C4FF;
+	color: #D4D4D4;
+}
+.readmore a:hover {
+	color: #FFFFFF;
+}
+.sidebar {
+	background: #0587CE none repeat scroll 0 0;
+	border: 1px solid #0C7A99;
+}
+.samesidebar h2 {
+	background: #1195DC none repeat scroll 0 0;
+	border-bottom: 2px solid #005DA4;
+}
+.samesidebar ul li {
+	border-bottom: 1px dashed #8ED5FF;
+}
+.samesidebar ul li a {
+	text-decoration: none;
+	color: #252562;
+}
+.samesidebar ul li a:hover {
+	color: #54D8FF;
+}
+.popular h3 {
+	color: #68ECF5;
+	border-bottom: 1px dotted #76FAFF;
+}
+.footersection {
+	background: linear-gradient(60deg, #1CA0F0, #1CA0F9,#1CA0C0);
+	color: #fff;
+}
+.footermenu ul li a {
+	color: #004775;
+}
+.footersection p {
+	color: #57DBFF;
+}
+.pagination a {
+	background: #0C70B4;
+	color: #fff;
+}
+.pagination a:hover {
+	background: #1CA0DE;
+}
+.post {
+	background: #199DE4;
+}
+.post img {
+	background: #0070B7;
+	border: 1.7px solid #003B82;
+}
+.contact input[type="text"], .contact input[type="email"], .contact input[type="password"],.contact textarea {
+	background: #1EA2E3;
+	color: #0A2A71;
+	border: 1px solid #0074BB;
+}
+.contact input[type="submit"] {
+	background: #0266AD;
+	color: #B2D0FF;
+	border: 1px solid #063B82;
+}
+.contact input[type="submit"]:hover {
+	background: #29ADF4;
+	color: #fff;
+}

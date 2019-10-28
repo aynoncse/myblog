@@ -1,0 +1,129 @@
+/*-Blue-*/
+.wrapper {
+	background: #f0f0a0 none repeat scroll 0 0;
+}
+.headersection {
+	background: linear-gradient(4deg, #FFCC00, #C49100,#FFDD24);
+}
+.social a {
+	background: #C59800;
+}
+.logo h2 {
+	color: #FCFC7A;
+	text-shadow: 2px 2px 0 #684801;
+}
+.logo p {
+	color: #796100;
+}
+.searchbtn input {
+	background: #EFE844;
+	color: #754300;
+	border: 1px solid #FAF659;
+	box-shadow: 7px 5px 7px -5px;
+}
+.searchbtn input[type="submit"]:hover {
+	background: #D8A500;
+}
+.navsection {
+	background: #FFDF42 none repeat scroll 0 0;
+}
+.navsection ul li {
+	background: #FFDF42;
+	border-right: 1px solid #E0C023;
+	border-left: 1px solid #E9C92C;
+}
+#active, .navsection ul li a:hover {
+	background: linear-gradient(4deg, #FFCC00, #C49100,#FFDD24);
+}
+.navsection ul li ul li {
+	border-bottom: 1px solid #E0C00C;
+}
+.contentsection {
+  background: #f0f0a0 none repeat scroll 0 0;
+}
+
+.samepost, .contact {
+	background: #ffff80 none repeat scroll 0 0;
+	border: 1px solid #b9b90e;
+}
+.samepost h2, .about h2, .contact h2, .post h2, .relatedpost h2 {
+	border-bottom: 2px solid #D5D556;
+	color: #AB7102;
+}
+.samepost h2 a , .post h2 a{
+	color: #AB7102;
+}
+.samepost h2 a:hover {
+	color: #AB4102;
+}
+.samepost h4 a, .post h4 a {
+	color: #AB2102;
+}
+.samepost h4 a:hover, .post h4 a:hover {
+	color: #AB4108;
+}
+.readmore a {
+	background: #DFDF44 none repeat scroll 0 0;
+  	border: 1px solid #9b999a;
+  	color: #333;
+}
+.readmore a:hover {
+	color: #FF8000;
+}
+.sidebar {
+	background: #ffff80 none repeat scroll 0 0;
+	border: 1px solid #B9B90E;
+}
+.samesidebar h2 {
+	background: #D79D00 none repeat scroll 0 0;
+  	border-bottom: 2px solid #494849;
+}
+.samesidebar ul li {
+	border-bottom: 1px dashed #975D00;
+}
+.samesidebar ul li a {
+	color: #613C00;
+}
+.samesidebar ul li a:hover {
+	color: #9F9F04;
+}
+.popular h3 {
+	color: #AB7102;
+	border-bottom: 1px dotted #975D00;
+}
+.footersection {
+	background: linear-gradient(-4deg, #FFCC00, #C49100,#FFDD24);
+}
+.footermenu ul li a {
+	color: #FFFF80;
+}
+.footersection p {
+	color: #E0E061;
+}
+.pagination a {
+	background: #C39128;
+	color: #FFFF80;
+}
+.pagination a:hover {
+	background: #6F6F00;
+}
+.post {
+	background: #FFFF80;
+}
+.post img {
+	background: #EEEE6F;
+}
+.contact input[type="text"], .contact input[type="email"], .contact input[type="password"],.contact textarea {
+	background: #EFE844;
+	color: #754300;
+	border: 1px solid #FAF659;
+}
+.contact input[type="submit"] {
+	background: #EFE844;
+	color: #AD9D33;
+	border: 1px solid #A6A600;
+}
+.contact input[type="submit"]:hover {
+	background: #E4C427;
+	color: #FFFF88;
+}
